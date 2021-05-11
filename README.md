@@ -5,6 +5,6 @@
 **text in  bold**
 ***text in italic and bold***
 #unordered list
-*greek
+* greek
   * alpha
   * beta
