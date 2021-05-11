@@ -4,11 +4,11 @@
 *font style in italic*
 **text in  bold**
 ***text in italic and bold***
-#unordered list
+# unordered list
 * greek
   * alpha
   * beta
-## unorded list
+## orded list
 1. alps
    1. a
    2. b 
