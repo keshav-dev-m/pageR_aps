@@ -6,6 +6,7 @@
 **text in  bold**
 
 ***text in italic and bold***
+****text****
 # unordered list
 * greek
   * alpha
